@@ -1,4 +1,4 @@
-var rect = require('rectangle');
+var rect = require('./rectangle');
 
 function solveRect(l,b){
     console.log("Solving rectangle"+l+ "and"+ b)
